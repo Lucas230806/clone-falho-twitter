@@ -1,0 +1,48 @@
+.container{
+    flex-direction: column;
+    display: inline-flex;
+    margin-top: 6rem;
+}
+
+.twitter{
+height: 31px;
+}
+
+.pesquisar{
+    height: 31px;  
+}
+
+.perfil{
+    border-radius: 100%;
+    width: 4rem;
+}
+
+.noticias{
+ margin-left: 12rem;
+ margin-top: -8rem;
+}
+.explorador{
+    margin-bottom: 12rem;
+}
+.texto{
+  margin-left: 70px;
+}
+
+.nome-perfil{
+    margin-left: 70px;
+    margin-top: -4rem;
+}
+
+.postagem{
+margin-left: 70px;
+}
+
+.configuracoes2{
+    margin-left: 41rem;
+    margin-bottom: -2rem;
+}
+
+
+
+
+
